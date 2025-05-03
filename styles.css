@@ -278,7 +278,7 @@ h1 {
 }
 
 .portfolio__project {
-    background-image: linear-gradient(#0006, #0006), url("img/dalto.jpeg");
+    background-image: linear-gradient(#0006, #0006), url("./img/foto-perfil.jpg");
     background-position: center;
     background-size: cover;
     display: grid;
